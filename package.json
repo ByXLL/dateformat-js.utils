@@ -1,0 +1,35 @@
+{
+  "name": "dateformat-js",
+  "version": "0.0.1",
+  "description": "时间格式化工具",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leeyu0329/dateformat-js.git"
+  },
+  "keywords": [
+    "时间",
+    "格式化",
+    "日期",
+    "格式化"
+  ],
+  "author": "liyu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leeyu0329/dateformat-js/issues"
+  },
+  "homepage": "https://github.com/leeyu0329/dateformat-js#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.5",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.29.4",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.1.14"
+  }
+}

@@ -1,2 +1,3 @@
-# dateformat-js
-js时间格式化工具
+# dateformat-js.utils
+
+时间格式化 js 工具

@@ -21,13 +21,5 @@ module.exports = {
                 exclude: /node_modules/
             }
         ]
-    },
-
-    plugins: [
-        new HtmlWebpackPlugin({
-            template: __dirname + '/example/index.html',
-            inject: 'body'
-        }),
-        new webpack.HotModuleReplacementPlugin()
-    ]
+    }
 };
